@@ -16,7 +16,7 @@ include_once "{$ROOT}Modelo/gato.php";
 include_once "{$ROOT}Modelo/usuario.php";
 include_once "{$ROOT}Control/AbmGato.php";
 include_once "{$ROOT}Control/AbmUsuario.php";
-include_once "{$ROOT}.gitIgnore/vendor/autoload.php";
+include_once "{$ROOT}.gitignore/vendor/autoload.php";
 
 // Variable que define la pagina de autenticacion del proyecto
 $INICIO = "Location:http://".$_SERVER['HTTP_HOST']."/$PROYECTO/vista/login/login.php";
