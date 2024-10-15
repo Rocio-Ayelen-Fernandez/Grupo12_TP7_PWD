@@ -17,6 +17,7 @@ Se presenta el trabajo practico N° 7 de Clases Utiles
 -**Gallardo Gabriel**
 
 -**Fernandez Rocio**
+
 -**Consideraciones a la hora de usar:
 -Debe instalar composer y abrir la terminal en la carpeta del proyecto "Grupo12_TP7_PWD-main", luego ingresar lo siguiente: 
   -composer require firebase/php-jwt
