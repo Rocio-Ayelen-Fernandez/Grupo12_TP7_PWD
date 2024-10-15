@@ -21,6 +21,10 @@ Se presenta el trabajo practico N° 7 de Clases Utiles
 ## Consideraciones a la hora de usar
 Debe instalar composer y abrir la terminal en la carpeta del proyecto "Grupo12_TP7_PWD-main", luego ingresar lo siguiente:
 
-  -composer require firebase/php-jwt
+  - Verificar que openssl esté habilitada
+  - Abre tu archivo php.ini 
+  -Asegúrate de que la línea: " extension=openssl " no esté comentada (no debe tener un ; al inicio).
   
-  -composer require guzzlehttp/guzzle
+  - composer require firebase/php-jwt
+  
+  - composer require guzzlehttp/guzzle
