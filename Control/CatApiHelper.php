@@ -5,7 +5,7 @@ require_once 'guzzleHelper.php';
 class CatApiHelper extends GuzzleHelper {
     public function __construct() {
         parent::__construct('https://api.thecatapi.com/v1/', [
-            'x-api-key' => 'live_qHi1mNcgHyLP6zIJpo9WHEQTVin5B3ygvDtWiqXk3ua8z7R7OxJVs799YRcBUicr' 
+            'x-api-key' => 'live_osQOYIgj59115waa8hMucnt5Tt9vu4DciEwUtNe10vFW2LRoizWOup8ARzvxHRja' 
             // Reemplazar con la key de The Cat API
         ]);
     }
