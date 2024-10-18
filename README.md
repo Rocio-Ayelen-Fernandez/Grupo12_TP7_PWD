@@ -28,3 +28,5 @@ Debe instalar composer y abrir la terminal en la carpeta del proyecto "Grupo12_T
   - composer require firebase/php-jwt
   
   - composer require guzzlehttp/guzzle
+    
+## [Enlace al ppt de investigacion](https://docs.google.com/presentation/d/1YQDqsVKM7d7niGicPjq0gnv-QXMhr8yCFeJ041vnHYY/edit#slide=id.g2d437fb7ed9_0_6)
